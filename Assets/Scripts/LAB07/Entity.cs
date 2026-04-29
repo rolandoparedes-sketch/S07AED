@@ -2,5 +2,11 @@ using UnityEngine;
 
 public class Entity : MonoBehaviour
 {
-    public ScriptableObject scriptableObject;
+    public EntityStats stats; 
+
+    public void TakeTurn() 
+    {
+        Debug.Log(stats.EntityName + " actúa");
+    }
 }
+

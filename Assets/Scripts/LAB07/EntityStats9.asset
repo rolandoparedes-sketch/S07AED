@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5465df2185928bc40b90bd38b3f6f11b, type: 3}
   m_Name: EntityStats9
   m_EditorClassIdentifier: Assembly-CSharp::EntityStats
-  speed: 0
-  id: 0
-  Name: 0
+  speed: 2
+  id: 1
+  EntityName: Pichu
